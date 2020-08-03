@@ -50,3 +50,8 @@ define('DELETE', 'Delete');
 define('REMOVEFROMPROFILE', 'Remove From Profile');
 define('REPORT', 'Report File');
 define('SAVE', 'Save');
+define('TRANSLATORS', 'Translators');
+define('DEFAULT', 'Default');
+define('GREEN', 'Green');
+define('PINK', 'Pink');
+define('NONE', 'None');
