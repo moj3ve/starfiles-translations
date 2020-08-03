@@ -16,7 +16,7 @@ define('NOFILEUPLOADED', 'Walang uploaded file');
 define('FILETOOLARGE', 'Malaki ang file');
 define('SERVERERROR', 'Error sa Server');
 define('PARTIALLYUPLOADED', 'Ang upload ay hindi pa kumpleto');
-define('SYNCPROFILES', 'I-sync and mga Profiles');
+define('SYNCPROFILES', 'I-sync ang mga Profiles');
 define('FOOTERDESCRIPTION', 'Ang Startfiles ay libreng file-hosting service para mag-store ng mga files at madaling ibahagi ito.');
 define('HELPTEXT', 'I-report ang mga issue at mag-request ng mga features sa pamamagitan ng ');
 define('TOS', 'Terms of Service');
