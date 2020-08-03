@@ -41,7 +41,7 @@ define('FILEDELETED', 'File Deleted');
 define('PASSWORD', 'Password');
 define('PASSWORDPROTECTED', 'Password Protected');
 define('PASSWORDINCORRECT', 'Password Incorrect');
-define('ENTERPASSWORD', 'Enter a password');
+define('ENTERPASSWORD', 'Set a password');
 define('LOGIN', 'Login');
 define('DIRECTURL', 'Direct URL');
 define('DOWNLOAD', 'Download');
