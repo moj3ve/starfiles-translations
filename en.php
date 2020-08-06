@@ -1,5 +1,6 @@
 <?php
 define('LANGUAGE', 'en');
+define('DIR', 'ltr');
 define('SLOGAN', 'File hosting done simple');
 define('DESCRIPTION', 'File hosting done simple. Accountless file hosting with no limits. Share files easily for free on Starfiles.');
 define('SELECTFILE', 'Select File');
