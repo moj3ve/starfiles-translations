@@ -51,7 +51,6 @@ define('REMOVEFROMPROFILE', 'Xoá khỏi  hồ sơ');
 define('REPORT', 'Báo cáo file');
 define('SAVE', 'Lưu');
 define('TRANSLATORS', 'Phiên dịch');
-define('DEFAULTCOLOUR', 'Mặc định');
 define('GREEN', 'Xanh lá');
 define('PINK', 'Hồng');
 define('NONE', 'Không có');

@@ -51,7 +51,6 @@ define('REMOVEFROMPROFILE', 'Eliminar del perfil');
 define('REPORT', 'Archivo de informe');
 define('SAVE', 'Salvar');
 define('TRANSLATORS', 'Traductores');
-define('DEFAULTCOLOUR', 'Defecto');
 define('GREEN', 'Verde');
 define('PINK', 'Rosado');
 define('NONE', 'Ninguna');
