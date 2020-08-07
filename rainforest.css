@@ -1,0 +1,56 @@
+:root {
+    --one: #f7fbe1;
+    --two: #bac964;
+    --three: #438a5e;
+    --four: #436f8a;
+}
+a, a:visited{
+    color: var(--four)
+}
+.btn{
+    color: #fff;
+    background-color: var(--three)
+}
+.btn:hover{
+    background-color: var(--four)
+}
+header{
+    background: linear-gradient(to right, var(--three), var(--two));
+    color: white
+}
+.footer{
+    background-color: var(--one);
+    color: #323642
+}
+.upload{
+    background-color: var(--three)
+}
+.upload:hover{
+    background-color: var(--four)
+}
+input[type="password"]{
+    border: 1.5px solid var(--two)
+}
+input[type="submit"]{
+    border: 1.5px solid var(--two)
+}
+input[type="submit"]:hover{
+    background-color: var(--two);
+    color: white
+}
+::selection{
+    color: white;
+    background-color: var(--three)
+}
+@media (prefers-color-scheme:dark){
+    .recents .gridRecents a{
+        color: #f4fbff;
+        background-color: var(--three);
+        box-shadow: 0 2px 10px #191c2552
+    }
+}
+@media only screen and (max-width: 840px){
+    .recents .gridRecents a{
+        background-color: transparent
+    }
+}
