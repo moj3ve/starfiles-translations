@@ -52,7 +52,6 @@ define('REMOVEFROMPROFILE', 'إزالة من ملف التعريف');
 define('REPORT', 'إبلاغ عن ملف');
 define('SAVE', 'حفظ');
 define('TRANSLATORS', 'المترجمين');
-define('GREEN', 'أخضر');
 define('PINK', 'وردي');
 define('NONE', 'لا شيء');
 define('YOURDATA', 'معلوماتك');
