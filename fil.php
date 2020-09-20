@@ -1,5 +1,6 @@
 <?php
 define('LANGUAGE', 'fil');
+define('DIR', 'ltr');
 define('SLOGAN', 'Simpleng pag-host ng file');
 define('DESCRIPTION', 'Nagawa nang simple ang pag-host ng file. Walang limitasyon. Libreng pagbabahagi ng file sa Starfiles.');
 define('SELECTFILE', 'Pumili ng file');
@@ -11,6 +12,7 @@ define('JAVASCRIPTWARNING', 'Ang Javascript ay hindi gumagana. Paganahin ito par
 define('VPNWARNING', 'Mukhang ikaw ay gumagamit ng VPN. Maaring hindi gumana ang ilang features habang gumagamit nito.');
 define('GOTOUPLOADPAGE', 'Pumunta sa Upload Page');
 define('RECENTS', 'Iyong mga Recent Files');
+define('YOURFILES', 'Iyong Dokumento');
 define('ERRORS', 'Errors');
 define('NOFILEUPLOADED', 'Walang uploaded file');
 define('FILETOOLARGE', 'Malaki ang file');
@@ -50,3 +52,5 @@ define('DELETE', 'Burahin');
 define('REMOVEFROMPROFILE', 'Alisin sa Profile');
 define('REPORT', 'I-report ang File');
 define('SAVE', 'I-save');
+define('TRANSLATORS', 'Tagapagsalin');
+define('YOURDATA', 'Iyong datos');
