@@ -1,8 +1,8 @@
 <?php
 define('LANGUAGE', 'en');
 define('DIR', 'ltr');
-define('SLOGAN', 'File hosting done simple');
-define('DESCRIPTION', 'File hosting done simple. Accountless file hosting with no limits. Share files easily for free on Starfiles.');
+define('SLOGAN', 'File sharing done simple');
+define('DESCRIPTION', 'File sharing done simple. Accountless file sharing with no limits. Share files easily for free on Starfiles.');
 define('SELECTFILE', 'Select File');
 define('UPLOADMULTIPLEFILES', 'Drop Files or Click Here');
 define('UPLOADSINGLEFILE', 'Drop File or Click Here');
@@ -12,13 +12,14 @@ define('JAVASCRIPTWARNING', 'Javascript is not enabled. Please enable it to enab
 define('VPNWARNING', 'We have detected a VPN. Using a VPN may break some features.');
 define('GOTOUPLOADPAGE', 'Go to Upload Page');
 define('RECENTS', 'Your Recents');
+define('YOURFILES', 'Your Files');
 define('ERRORS', 'Errors');
 define('NOFILEUPLOADED', 'No File Uploaded');
 define('FILETOOLARGE', 'File Too Large');
 define('SERVERERROR', 'Server Error');
 define('PARTIALLYUPLOADED', 'Partially Uploaded');
 define('SYNCPROFILES', 'Sync Profiles');
-define('FOOTERDESCRIPTION', 'Starfiles is a free file hosting service that allows users to store files and share them easily.');
+define('FOOTERDESCRIPTION', 'Starfiles is a free file sharing service that allows users to store files and share them easily.');
 define('HELPTEXT', 'Please report any issues and make feature requests via ');
 define('TOS', 'Terms of Service');
 define('PRIVACY', 'Privacy Policy');
@@ -64,4 +65,3 @@ define('FAIRY', 'Fairy');
 define('RAINFOREST', 'Rainforest');
 define('NONE', 'None');
 define('YOURDATA', 'Your Data');
-define('POOP', 'Poop');
